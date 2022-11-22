@@ -105,7 +105,7 @@ extension HorizontalPickerViewController: UICollectionViewDataSource, UICollecti
     
     func scrollViewDidEndDragging(_ scrollView: UIScrollView, willDecelerate decelerate: Bool) {
         // if decelerate doesnt occur, scrollToCell
-        if decelerate == false {
+        if !decelerate {
             scrollToCell()
         } // else wait until decleration ends to scrollToCell
     }
