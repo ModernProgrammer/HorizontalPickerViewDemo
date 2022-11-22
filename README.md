@@ -36,16 +36,7 @@
 - iOS 8.0+
 - Xcode 7.3
 
-## Installation
 
-#### CocoaPods
-You can use [CocoaPods](http://cocoapods.org/) to install `YourLibrary` by adding it to your `Podfile`:
-
-```ruby
-platform :ios, '8.0'
-use_frameworks!
-pod 'YourLibrary'
-```
 
 To get the full benefits import `YourLibrary` wherever you import UIKit
 
@@ -78,7 +69,7 @@ We would love you for the contribution to **YourLibraryName**, check the ``LICEN
 
 ## Meta
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+Diego Bustamante – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
